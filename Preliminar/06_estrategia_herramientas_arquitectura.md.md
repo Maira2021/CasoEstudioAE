@@ -1,25 +1,43 @@
-# Paso 6 --- Estrategia de Herramientas y Técnicas
+# Paso 5 --- Adaptación del Framework TOGAF
 
 ## Descripción
 
-Definir herramientas y técnicas utilizadas para desarrollar la
-Arquitectura Empresarial.
+Adaptar TOGAF al contexto específico de la organización.
 
-## Herramientas Seleccionadas
+## Terminología
 
-  Tipo            Herramienta   Uso
-  --------------- ------------- -----
-  Repositorio                   
-  Diagramación                  
-  Modelado EA                   
-  Documentación                 
+Lista de términos utilizados dentro del proyecto.
 
-## Estrategia de Implementación
+<table>
+<thead>
+<tr>
+<th>Término</th>
+<th>Definición</th>
+</tr>
+</thead>
+<tbody>
+<tr><td></td><td></td></tr>
+<tr><td></td><td></td></tr>
+<tr><td></td><td></td></tr>
+</tbody>
+</table>
 
-Describir cómo se implementarán estas herramientas dentro del proyecto.
+## Adaptaciones del Proceso
 
-## Control de Artefactos
+<table>
+<thead>
+<tr>
+<th>Elemento ADM</th>
+<th>Adaptación</th>
+</tr>
+</thead>
+<tbody>
+<tr><td></td><td></td></tr>
+<tr><td></td><td></td></tr>
+<tr><td></td><td></td></tr>
+</tbody>
+</table>
 
--   Control de versiones:
--   Gestión de acceso:
--   Seguridad de la información:
+## Contenido Arquitectónico
+
+Describir artefactos o entregables específicos que se producirán.
