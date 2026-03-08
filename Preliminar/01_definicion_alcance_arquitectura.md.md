@@ -7,45 +7,99 @@ impactados por la Arquitectura Empresarial.
 
 ## Información del Proyecto
 
--   Nombre del proyecto:
--   Organización:
--   Fecha:
--   Autor(es):
+- Nombre del proyecto:
+- Organización:
+- Fecha:
+- Autor(es):
 
 ## Core Enterprise Units
 
 Unidades más impactadas por la arquitectura.
 
-  Unidad   Descripción   Responsabilidad
-  -------- ------------- -----------------
-                         
+<table>
+<thead>
+<tr>
+<th>Unidad</th>
+<th>Descripción</th>
+<th>Responsabilidad</th>
+</tr>
+</thead>
+<tbody>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+</tbody>
+</table>
 
 ## Soft Enterprise Units
 
 Unidades relacionadas que experimentarán cambios indirectos.
 
-  Unidad   Relación con el proyecto   Impacto
-  -------- -------------------------- ---------
-                                      
+<table>
+<thead>
+<tr>
+<th>Unidad</th>
+<th>Relación con el proyecto</th>
+<th>Impacto</th>
+</tr>
+</thead>
+<tbody>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+</tbody>
+</table>
 
 ## Extended Enterprise
 
 Actores externos que interactúan con la organización.
 
-  Actor   Tipo   Descripción
-  ------- ------ -------------
-                 
+<table>
+<thead>
+<tr>
+<th>Actor</th>
+<th>Tipo</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+</tbody>
+</table>
 
 ## Stakeholders
 
-  Stakeholder   Rol   Interés
-  ------------- ----- ---------
-                      
+<table>
+<thead>
+<tr>
+<th>Stakeholder</th>
+<th>Rol</th>
+<th>Interés</th>
+</tr>
+</thead>
+<tbody>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+</tbody>
+</table>
 
 ## Contexto de Gobernanza
 
 Regulaciones, leyes o marcos relevantes.
 
-  Marco   Descripción
-  ------- -------------
-          
+<table>
+<thead>
+<tr>
+<th>Marco</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr><td></td><td></td></tr>
+<tr><td></td><td></td></tr>
+<tr><td></td><td></td></tr>
+</tbody>
+</table>
