@@ -83,6 +83,3 @@ I --> K[Registro de obligación financiera]
 ```
 
 
-
--   Escalabilidad del sistema
--   Seguridad y cumplimiento regulatorio
