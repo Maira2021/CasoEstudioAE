@@ -7,10 +7,11 @@ impactados por la Arquitectura Empresarial.
 
 ## Información del Proyecto
 
-- Nombre del proyecto:
-- Organización:
-- Fecha:
-- Autor(es):
+- Nombre del proyecto: Findata
+- Organización: CECAR
+- Descripción: FinTech(Finanzas Tecnoñogia) de microcreditos
+- Fecha: 2026
+- Autor(es): Maira Narvaez
 
 ## Core Enterprise Units
 
