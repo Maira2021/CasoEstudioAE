@@ -9,7 +9,7 @@ impactados por la Arquitectura Empresarial.
 
 - Nombre del proyecto: Findata
 - Organización: CECAR
-- Descripción: FinTech(Finanzas Tecnoñogia) de microcreditos
+- Descripción: FinTech(Finanzas Tecnologia) de microcreditos
 - Fecha: 2026
 - Autor(es): Maira Narvaez
 
